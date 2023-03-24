@@ -5,8 +5,8 @@ Your coding skills to be helpful for your life.
 This is very easy Java code. If you have curious and want to learn Java you'll be trying these easy codes.
 
 *Eclipse is very useful application. You can develop Java applications and systems easiry.
-    If you don't have eclipse and you can download bellow ↓
+    If you don't have eclipse and you can download bellow 
     https://www.eclipse.org/downloads/
                 or
-   If you want to use Japanese edition you can download bellow ↓
+   If you want to use Japanese edition you can download bellow 
    https://mergedoc.osdn.jp
